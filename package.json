@@ -1,0 +1,24 @@
+{
+  "name": "ModMail Bot",
+  "version": "1.0.0",
+  "description": "Un EJEMPLO de bot de Discord estilo ModMail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejemplo discord modmail",
+    "discord modmail bot",
+    "bot modmail discord"
+  ],
+  "deprecated": false,
+  "author": {								
+    "name": "Jyn"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.16.1",
+    "megadb": "^3.0.0",
+    "ms": "^2.1.2"
+  }
+}
